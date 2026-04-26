@@ -1,0 +1,9 @@
+{
+  "gateway": {
+    "bind": "lan",
+    "trustedProxies": ["167.82.0.0/16", "100.64.0.0/10"],
+    "controlUi": {
+      "allowedOrigins": ["https://openclaw-production-91815.up.railway.app"]
+    }
+  }
+}
